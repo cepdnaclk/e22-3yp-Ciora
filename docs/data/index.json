@@ -31,5 +31,7 @@
             "email": "email@eng.pdn.ac.lk"
         }
     ],
-    "tags": ["Web", "Embedded Systems", "Robotics", "IoT", "Healthcare"]
+    "tags": ["Web", "Embedded Systems", "Robotics", "IoT", "Healthcare"],
+    "image":"cover_page.jpg",
+    "thumbnail":"thumbnail.jpg"
 }
