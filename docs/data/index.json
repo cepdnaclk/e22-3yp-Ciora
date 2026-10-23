@@ -1,4 +1,5 @@
 {
+    "title": "Ciora",
     "team": [
         {
             "name": "Sanindu Hansara",
@@ -23,13 +24,11 @@
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk"
-        },
-        {
-            "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk"
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk"
         }
     ],
-    "tags": ["Web", "Embedded Systems", "Robotics", "IoT", "Healthcare"]
+    "tags": ["Web", "Embedded Systems", "Robotics", "IoT", "Healthcare"],
+    "image":"cover_page.jpg",
+    "thumbnail":"thumbnail.jpg"
 }
